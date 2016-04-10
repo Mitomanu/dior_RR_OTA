@@ -7,6 +7,10 @@
                 id="rom"
                 title="Rom"
                 description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/dior</RomUrl>
+            <KernelUrl
+                id="kernel"
+                title="Kernel"
+                description="Download ResurrectionRemix Dior kernel">https://drive.google.com/open?id=0B4efKPhK4kOSZVRhRFRQN1dJQ0k</KernelUrl></KernelUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
