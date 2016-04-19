@@ -18,7 +18,7 @@
             <OpenGAppsUrl
                 id="open_gapps"
                 title="Open GApps"
-                description="Download Open latest GApps">http://opengapps.org</OpenGAppsUrl>
+                description="Download latest Open GApps">http://opengapps.org</OpenGAppsUrl>
         </dior>
     </Stable>
 </SlimOTA>
