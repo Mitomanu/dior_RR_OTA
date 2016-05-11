@@ -6,5 +6,6 @@
 - Remove SimpleGPUAlgorithm and IntelliPlug Hotplug (Unstable)
 - Some GPU optimization tweaks
 - Some Power Profiles tweaks
+- Green Video on browser bug fixed (was already fixed previously on my build)
 
 For more details track my github: https://github.com/ashishkotnala29
