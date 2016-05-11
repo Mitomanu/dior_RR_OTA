@@ -22,7 +22,7 @@
             <DeviceChangelogUrl
                 id="devicechangelog"
                 title="Device Changelog"
-                description="View Device Specific Changelog">https://github.com/ashishkotnala29/dior_RR_OTA/blob/master/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Device Specific Changelog">https://github.com/ashishkotnala29/dior_RR_OTA/blob/master/CHANGELOG.mkdn</DeviceChangelogUrl>
         </dior>
     </Stable>
 </SlimOTA>
