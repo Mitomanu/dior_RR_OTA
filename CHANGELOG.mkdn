@@ -1,0 +1,10 @@
+# The Changelog
+
+# Build 20160511
+
+- Remove CPU Underclocking completely (Smooth performance now)
+- Remove SimpleGPUAlgorithm and IntelliPlug Hotplug (Unstable)
+- Some GPU optimization tweaks
+- Some Power Profiles tweaks
+
+For more details track my github: https://github.com/ashishkotnala29
