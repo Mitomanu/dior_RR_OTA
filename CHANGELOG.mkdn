@@ -2,7 +2,7 @@
 
 # Build 20160511
 
-- Remove CPU Underclocking completely (Smooth performance now)
+- Remove CPU Underclocking completely but keeping Overclocking (Smooth performance now)
 - Remove SimpleGPUAlgorithm and IntelliPlug Hotplug (Unstable)
 - Some GPU optimization tweaks
 - Some Power Profiles tweaks
