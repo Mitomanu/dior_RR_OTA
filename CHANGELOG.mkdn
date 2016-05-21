@@ -1,5 +1,9 @@
 # The Changelog
 
+# Build 20160521
+
+- Upstream changes only for RR v5.6.9 update
+
 # Build 20160511
 
 - Remove CPU Underclocking completely but keeping Overclocking (Smooth performance now)
