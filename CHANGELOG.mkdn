@@ -1,5 +1,20 @@
 # The Changelog
 
+# Build 20160608
+
+- Sync Upstream changes, android 6.0.1_r46/MOB30M, June Security Patch
+- Hardware Button Enable/Disable Option (for RR ROM only, does not support CM13)
+- Remove healthd and use Xiaomi's chargeonlymode, now charging time is improved
+- Bring back stock thermal-engine and update (removed msm_thermal)
+- Bring back stock MPDecision hotplug (removed MSM Hotplug)
+- Update PowerHAL
+- Support MIDI function
+- Add CyanogenMod's new browser, Gello
+- Finally fixed torch/flashlight icon disappearing from QS
+- try to fix Black screen in HDR mode in camera
+- Add O3, Graphite and other optimizations
+- Add missing graphics blobs in vendor
+
 # Build 20160521
 
 - Upstream changes only for RR v5.6.9 update
