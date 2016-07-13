@@ -5,6 +5,7 @@
 - Sync Upstream changes, CM13 and RR 5.7.1
 - 5 July Security Patch
 - fix "Optimizing apps" on every boot
+- fix low sound on speaker during call, no need to use Sound settings in Kernel Adiutor app
 - Kernel: Cleaned up useless stuff, now boot.img is down to 7.1MB from 13.1MB
 
 # Build 20160619
