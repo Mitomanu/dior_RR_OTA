@@ -1,5 +1,12 @@
 # The Changelog
 
+# Build 20160713 (RR-M 5.7.1) & 20160712 (CM-13.0)
+
+- Sync Upstream changes, CM13 and RR 5.7.1
+- 5 July Security Patch
+- fix "Optimizing apps" on every boot
+- Kernel: Cleaned up useless stuff, now boot.img is down to 7.1MB from 13.1MB
+
 # Build 20160619
 
 - Sync Upstream changes, CM13 and RR 5.7.0
