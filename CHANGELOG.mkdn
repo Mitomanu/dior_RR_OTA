@@ -1,5 +1,12 @@
 # The Changelog
 
+# Build 20160720
+
+- Sync upstream changes, CM13 and RR 5.7.1
+- Some more kernel cleanup, only 6.7MB boot.img
+- Fix HDR mode in Camera
+- Make thermal-engine less aggressive, some performace gain
+
 # Build 20160713 (RR-M 5.7.1) & 20160712 (CM-13.0)
 
 - Sync Upstream changes, CM13 and RR 5.7.1
