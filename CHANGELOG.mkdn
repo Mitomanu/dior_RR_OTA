@@ -1,5 +1,10 @@
 # The Changelog
 
+# Build 20160806
+
+- Sync upstream changes, CM13 and RR 5.7.2
+- 5 August Android Security Patch
+
 # Build 20160720
 
 - Sync upstream changes, CM13 and RR 5.7.1
