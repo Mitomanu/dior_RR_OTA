@@ -1,5 +1,13 @@
 # The Changelog
 
+# Build 20160908
+
+- Sync upstream changes RR 5.7.3
+- 6 Sep 2016 Android Security Patch
+- KERNEL source code drastically changed (CAF)
+- DO NOT DIRTY FLASH! CLEAN FLASH ONLY!
+- For full changes track my github
+
 # Build 20160809
 
 - Sync upstream changes, CM13 and RR 5.7.3
