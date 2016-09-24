@@ -3,8 +3,8 @@
 
 # Build 20160924
 
--Sync upstream changes RR 5.7.4 
--Kernel Security and bugfixes
+- Sync upstream changes RR 5.7.4
+- Kernel Security and bugfixes
 
 # Build 20160908
 
