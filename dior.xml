@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <dior>
-            <Filename>ResurrectionRemix-M-v5.7.4-20160924-dior</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161026-dior</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/dior/ResurrectionRemix-M-v5.7.4-20160924-dior.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/dior/ResurrectionRemix-M-v5.7.4-20161026-dior.zip</RomUrl>
             <KernelsUrl
                 id="kernels"
                 title="Kernels"
-                description="Edge bug fixed">https://www.androidfilehost.com/?w=files&amp;flid=57897</KernelsUrl>
+                description="Edge bug fixed">http://d-h.st/uj56</KernelsUrl>
             <OpenGAppsUrl
                 id="open_gapps"
                 title="Open GApps"
