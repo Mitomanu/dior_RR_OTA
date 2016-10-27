@@ -1,5 +1,11 @@
 # The Changelog
 
+# FINAL build 20161026
+
+- Sync upstream changes RR 5.7.4
+- October 2016 Security Patch
+- Bring inline with cm13 device/kernel tree
+- CLEAN FLASH ONLY!
 
 # Build 20160924
 
