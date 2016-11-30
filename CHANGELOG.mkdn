@@ -1,6 +1,16 @@
 # The Changelog
 
-# FINAL build 20161026
+# Build 20161130
+
+- Sync upstream changes RR 5.8.0
+
+# Initial-N Build 20161127
+
+- Sync upstream changes RR 5.8.0
+- November 2016 Security Patch
+- CLEAN FLASH ONLY!
+
+# FINAL-M build 20161026
 
 - Sync upstream changes RR 5.7.4
 - October 2016 Security Patch
