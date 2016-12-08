@@ -1,5 +1,18 @@
 # The Changelog
 
+
+# Build 20161208
+
+- Sync upstream changes RR 5.8.0
+- Android 7.1.1 and Dec 2016 Security Patches
+- Use Prebuilt CMFileManager from CM13
+
+# Build 20161204
+
+- Sync upstream changes RR 5.8.0
+- Update build fingerprint and description to MIUI 8.1.2.0
+- Switch to /dev/block/bootdevice
+
 # Build 20161130
 
 - Sync upstream changes RR 5.8.0
