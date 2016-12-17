@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest ResurrectionRemix build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/dior/ResurrectionRemix-N-v5.8.0-20161217-dior.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">http://downloads.resurrectionremix.com/dior/ResurrectionRemix-N-v5.8.0-20161217-dior.zip</RomUrl>
             <Rom2Url
                 id="rom2"
                 title="Alternate Download Link for ROM"
