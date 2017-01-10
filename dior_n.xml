@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <dior>
-            <Filename>RR-N-v5.8.0-20170117-dior-Official</Filename>
+            <Filename>RR-N-v5.8.0-20170110-dior-Official</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest ResurrectionRemix build">http://downloads.resurrectionremix.com/dior/RR-N-v5.8.0-20170117-dior-Official.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">http://downloads.resurrectionremix.com/dior/RR-N-v5.8.0-20170110-dior-Official.zip</RomUrl>
             <Rom2Url
                 id="rom2"
                 title="Alternate Download Link for ROM"
