@@ -12,7 +12,7 @@
                 title="Alternate Download Link for ROM"
                 description="Alternate link to download build">https://www.androidfilehost.com/?fid=817550096634741094</Rom2Url>
             <Rom3Url
-                id="rom2"
+                id="rom3"
                 title="Sourceforge Download Link for ROM"
                 description="Alternate link to download build">https://sourceforge.net/projects/resurrectionremix/files/dior/</Rom3Url>
             <KernelsUrl
