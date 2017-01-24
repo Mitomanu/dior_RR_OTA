@@ -2,19 +2,23 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <dior>
-            <Filename>RR-N-v5.8.0-20170110-dior-Official</Filename>
+            <Filename>RR-N-v5.8.0-20170123-dior-Official</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest ResurrectionRemix build">http://downloads.resurrectionremix.com/dior/RR-N-v5.8.0-20170110-dior-Official.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">http://downloads.resurrectionremix.com/dior/RR-N-v5.8.0-20170123-dior-Official.zip</RomUrl>
             <Rom2Url
                 id="rom2"
                 title="Alternate Download Link for ROM"
-                description="Alternate link to download build">https://www.androidfilehost.com/?fid=457095661767128731</Rom2Url>
+                description="Alternate link to download build">https://www.androidfilehost.com/?fid=817550096634741094</Rom2Url>
+            <Rom3Url
+                id="rom2"
+                title="Sourceforge Download Link for ROM"
+                description="Alternate link to download build">https://sourceforge.net/projects/resurrectionremix/files/dior/</Rom3Url>
             <KernelsUrl
                 id="kernels"
                 title="Kernel"
-                description="Edge bug fixed">https://www.androidfilehost.com/?fid=529152257862694409</KernelsUrl>
+                description="Edge bug fixed">https://www.androidfilehost.com/?fid=529152257862697944</KernelsUrl>
             <OpenGAppsUrl
                 id="open_gapps"
                 title="Open GApps"
@@ -22,7 +26,7 @@
             <DeltaGAppsUrl
                 id="delta_gapps"
                 title="Delta GApps"
-                description="Download latest Delta GApps">https://www.androidfilehost.com/?fid=385035244224410720</DeltaGAppsUrl>
+                description="Download latest Delta GApps">https://www.androidfilehost.com/?fid=529152257862696337</DeltaGAppsUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
