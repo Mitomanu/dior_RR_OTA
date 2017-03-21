@@ -2,23 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <dior>
-            <Filename>RR-N-v5.8.0-20170123-dior-Official</Filename>
+            <Filename>RR-N-v5.8.2-20170320-dior</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest ResurrectionRemix build">http://downloads.resurrectionremix.com/dior/RR-N-v5.8.0-20170123-dior-Official.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/dior/</RomUrl>
             <Rom2Url
                 id="rom2"
                 title="Alternate Download Link for ROM"
-                description="Alternate link to download build">https://www.androidfilehost.com/?fid=817550096634741094</Rom2Url>
-            <Rom3Url
-                id="rom3"
-                title="Sourceforge Download Link for ROM"
-                description="Alternate link to download build">https://sourceforge.net/projects/resurrectionremix/files/dior/</Rom3Url>
+                description="Alternate link to download build">http://roms.gerrett84.de/dior/RR/nightly/nougat/</Rom2Url>
             <KernelsUrl
                 id="kernels"
                 title="Kernel"
-                description="Edge bug fixed">https://www.androidfilehost.com/?fid=529152257862697944</KernelsUrl>
+                description="Edge bug fixed">http://roms.gerrett84.de/dior/RR/nightly/nougat/edge-fix/</KernelsUrl>
             <OpenGAppsUrl
                 id="open_gapps"
                 title="Open GApps"
